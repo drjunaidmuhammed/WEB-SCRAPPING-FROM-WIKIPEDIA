@@ -14,7 +14,7 @@ pip install jupyter beautifulsoup4
 
 Clone this repository to your local machine:
 
-git clone (https://github.com/drjunaidmuhammed/WEB-SCRAPPING-FROM-WIKIPEDIA/tree/main)
+git clone (https://github.com/drjunaidmuhammed/WEB-SCRAPPING-FROM-WIKIPEDIA.git)
 Navigate to the project directory and open the Jupyter Notebook file:
 
 cd your-repository
